@@ -14,6 +14,20 @@ A complete Decentralized Event Management Portal
 </tr>
 </table>
 
+Eventify is a decentralized event management solution that helps organizers streamline the process of distributing certificates and tickets while ensuring their authenticity. By converting certificates and tickets into non-fungible tokens involving smart contracts, Eventify reduces the number of fake tickets and certificates, ensuring that only interested participants attend an event.
+
+The platform offers a variety of templates that organizers can use throughout the event management system, including banners, tickets, and certificates. Participants can easily register for an event and receive NFT tickets and certifications that are always available and unforgeable.
+
+## Features: 
+1. Generates OnChain Certificates and Tickets and store them on IPFS-NFTStorage.
+2. Airdrop or lazy mint to their recipients.
+3. Provides information to participants about various categories of technical events.
+4. Streamlines the security of an event by digitizing the certificate and tickets.
+5. Reduces the number of fake tickets and certificates.
+6. Easy registration process for participants.
+7. NFT certifications that are always available and unforgeable.
+
+## Sections of our Project
 We work for two genres of users - Organisers and Attendees
 
 1. <b>For Organizers</b> 
@@ -31,6 +45,13 @@ We work for two genres of users - Organisers and Attendees
 
 ---------
 
+## How it works
+1. Organizers create an event and enter relevant information.
+2. Eventify generates OnChain Certificates and Tickets for the event and stores them on IPFS-NFTStorage.
+3. Participants register for the event and receive NFT tickets.
+4. After the event, participants receive NFT certificates.
+
+
 ## Tech Stack Used -
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/ethereum.svg" height="40" width="40" /> <img src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg" height="40" width="70"/> 
@@ -47,6 +68,11 @@ The home page of the application contains -
 ## UI of the Project
 <img src="https://image.canva.com/yM8DAwgTN83pvUiAz9OwFg%3D%3D/jHNPPbvBJZ0f5O09CjPwOQ%3D%3D.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH25PN7VSL%2F20230110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230110T085854Z&X-Amz-Expires=28997&X-Amz-Signature=130ecb747e14c966e2879b16d6e104676f5f21ec75bb71dc52600e14d3180057&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2010%20Jan%202023%2017%3A02%3A11%20GMT" >
 
+## Why Eventify?
+1. Provides a secure and transparent way of distributing certificates and tickets.
+2. Reduces the number of fake tickets and certificates.
+3. Easy registration process for participants.
+4. NFT certifications that are always available and unforgeable.
 
 ## Future Prospects
 
@@ -67,6 +93,4 @@ The home page of the application contains -
 
 See the code [here](https://github.com/Soham-Chakraborty-8455/Eventify)
 
-## Link To Deployed App
 
-See the deployed app [here]()
